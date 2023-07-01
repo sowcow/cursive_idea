@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    anki2 (0.1.2)
+      rubyzip (~> 1.2)
+      sqlite3 (~> 1.3)
+    rubyzip (1.3.0)
+    sqlite3 (1.6.3-x86_64-linux)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  anki2 (~> 0.1.2)
+
+BUNDLED WITH
+   2.4.13
