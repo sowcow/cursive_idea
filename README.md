@@ -45,3 +45,6 @@ These are random ideas I've not looked into.
 - using letter frequency could make the table less reconstructable than current more predictable mechanical mapping
 - expanded "long hand" version for more distinct looking letters or just optimize mapping to get similarity in the first place
 - optimize using NNs and reduction of recognition error given noise
+- in actual execution width of letters is likely to be not monospaced and
+  this means that mapping of alphabet could take that into account for certain rhytm
+  (I think about vowels)
